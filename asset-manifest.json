@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/framework-card-sorting/static/css/main.ffdf2bac.css",
-    "main.js": "/framework-card-sorting/static/js/main.494dd28f.js",
+    "main.css": "/framework-card-sorting/static/css/main.2767dea4.css",
+    "main.js": "/framework-card-sorting/static/js/main.90a58216.js",
     "static/js/453.2d692cf6.chunk.js": "/framework-card-sorting/static/js/453.2d692cf6.chunk.js",
     "static/media/logo.svg": "/framework-card-sorting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/framework-card-sorting/index.html",
-    "main.ffdf2bac.css.map": "/framework-card-sorting/static/css/main.ffdf2bac.css.map",
-    "main.494dd28f.js.map": "/framework-card-sorting/static/js/main.494dd28f.js.map",
+    "main.2767dea4.css.map": "/framework-card-sorting/static/css/main.2767dea4.css.map",
+    "main.90a58216.js.map": "/framework-card-sorting/static/js/main.90a58216.js.map",
     "453.2d692cf6.chunk.js.map": "/framework-card-sorting/static/js/453.2d692cf6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffdf2bac.css",
-    "static/js/main.494dd28f.js"
+    "static/css/main.2767dea4.css",
+    "static/js/main.90a58216.js"
   ]
 }
