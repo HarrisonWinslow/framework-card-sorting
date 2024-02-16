@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/framework-card-sorting/static/css/main.6a49afeb.css",
-    "main.js": "/framework-card-sorting/static/js/main.9cffabd4.js",
+    "main.css": "/framework-card-sorting/static/css/main.2a9a7c8a.css",
+    "main.js": "/framework-card-sorting/static/js/main.f58d4c0b.js",
     "static/js/453.2d692cf6.chunk.js": "/framework-card-sorting/static/js/453.2d692cf6.chunk.js",
     "index.html": "/framework-card-sorting/index.html",
-    "main.6a49afeb.css.map": "/framework-card-sorting/static/css/main.6a49afeb.css.map",
-    "main.9cffabd4.js.map": "/framework-card-sorting/static/js/main.9cffabd4.js.map",
+    "main.2a9a7c8a.css.map": "/framework-card-sorting/static/css/main.2a9a7c8a.css.map",
+    "main.f58d4c0b.js.map": "/framework-card-sorting/static/js/main.f58d4c0b.js.map",
     "453.2d692cf6.chunk.js.map": "/framework-card-sorting/static/js/453.2d692cf6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a49afeb.css",
-    "static/js/main.9cffabd4.js"
+    "static/css/main.2a9a7c8a.css",
+    "static/js/main.f58d4c0b.js"
   ]
 }
