@@ -1,0 +1,51 @@
+.quote-card {
+    background-color: rgba(121, 232, 206, 0.559);
+    border: 1px solid rgba(121, 232, 206, 0.559);
+    border-radius: 8px; /* Adjust the border-radius to control the roundness */
+    box-shadow: 0 2px 4px rgba(255, 255, 255, 0.4); /* Add a shadow to create a 3D effect */
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 400px;
+    min-width: 400px;
+}
+
+.restaurant-card {
+    position: relative;
+    background-color: rgba(121, 232, 206, 0.559);
+    border: 1px solid rgba(121, 232, 206, 0.559);
+    border-radius: 20px; /* Adjust the border-radius to control the roundness */
+    box-shadow: 4px 6px 8px rgba(255, 255, 255, 0.4); /* Add a shadow to create a 3D effect */
+    padding: 20px;
+    margin-bottom: 20px;
+    max-width: 1200px;
+    min-width: 1200px;
+    font-size: 15px;
+    align-items: left;
+    align-content: left;
+}
+
+.restaurant-card-header {
+    font-size: 20px; 
+    font-weight: bold
+}
+
+.restaurant-additional-content {
+    padding: 10px;
+    background-color: rgba(121, 232, 206, 0.689);
+    border: 1px solid #000000;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    font-size: 12px;
+}
+
+
+.arrow {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    font-size: 16px;
+  }
+
+.arrow.up {
+    transform: rotate(180deg); /* Rotate arrow when expanded */
+  }
